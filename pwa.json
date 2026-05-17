@@ -1,0 +1,11 @@
+{
+  "name": "LM blog",
+  "description": "A web blog. This site is a LM blog to I share my life with you.",
+  "version": "1.0.0",
+  "keywords": ["Web", "Site", "LM"],
+  "author": "Bernardo, Venâncio",
+  "license": {
+    "type": "Open Source"
+  },
+  "content_security_policy": "/* Content Security Policy */"
+}
